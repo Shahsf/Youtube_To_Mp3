@@ -11,7 +11,7 @@ with open('C://Mp3_Music_Download//music.txt') as f:
             line = line.rstrip()
             output.append(line)
 count = 0
-if not output:
+if output == []:
     print("No Songs were picked (Enter Songs name in Text File)")
     quit()
 
