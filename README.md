@@ -5,3 +5,4 @@ Download Songs from Youtube by Text List (Also can change to input)
 
 Notice you need to update the Chrome Driver in the Folder or Update your Chrome in Case needed
 
+!!!!Be Aware Sometimes it Won't work if u Enter Spaces instead of Song name!!!
